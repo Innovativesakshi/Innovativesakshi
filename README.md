@@ -99,6 +99,17 @@
 
 ---
 
+---# 🚀 LeetCode
+
+<p align="left">
+  <a href="https://leetcode.com/aayush7352/">
+    <img src="https://leetcard.jacoblin.cool/Aayush_7352?theme=dark&font=Fira+Code" />
+  </a>
+</p>
+
+---
+
+
 ## 🌐 Connect With Me
 
 <p align="center">
