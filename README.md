@@ -99,15 +99,14 @@
 
 ---
 
----# 🚀 LeetCode
+## 🧩 LeetCode
 
-<p align="left">
-  <a href="https://leetcode.com/aayush7352/">
-    <img src="https://leetcard.jacoblin.cool/Aayush_7352?theme=dark&font=Fira+Code" />
+<p align="center">
+  <a href="https://leetcode.com/u/tripathisakshi6392/">
+    <img src="https://leetcard.jacoblin.cool/tripathisakshi6392?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode stats" />
   </a>
 </p>
 
----
 
 
 ## 🌐 Connect With Me
